@@ -1,0 +1,6 @@
+
+.loginBtn:hover{
+    -fx-background-color: blue !important;
+    -fx-text-fill: #fff;
+    -fx-font-size: 32;
+}
